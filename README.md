@@ -1,16 +1,14 @@
-Sound-To-Haptics
+# Sound-To-Haptics
 
 Sound-To-Haptics is an Android application that converts MP3 audio into immersive haptic feedback by generating Android-compatible haptic audio files.
 
-Features
+# Features
 
-- Convert MP3 files into Android-compatible haptic tracks.
+- Convert MP3 files into Android-compatible haptic tracks using the OGG Haptic support.
 - Automatic audio conversion using FFmpeg.
 - Synchronized haptic playback using the Haptics Labs Kotlin Library.
-- Lightweight and easy-to-use interface.
-- Built for Android devices that support advanced haptic playback.
 
-How It Works
+# How It Works
 
 Sound-To-Haptics combines two libraries:
 
