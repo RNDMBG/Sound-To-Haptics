@@ -166,3 +166,11 @@ Nothing
 Please, and I mean PLEASE do not use music that has heavy bass drops or alot of overlapping beats, it could cause damage to the haptic motor. Any damage to any device is completely on you.
 
 # YOU HAVE BEEN WARNED.
+
+
+# Credits
+
+Without these, this wouldn't be possible.
+
+HapticLabs Kotlin Library
+FFMPeg Library
