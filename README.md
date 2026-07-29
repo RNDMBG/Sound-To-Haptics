@@ -24,7 +24,7 @@ Sound-To-Haptics requires an Android device that supports Android's haptic playb
 - Android device with a supported haptic actuator.
 - Android version that supports haptic-enabled OGG playback (preferably Android 11 and up).
 
-Compatibility depends on the manufacturer, I haven't been able to test every single device in this upcoming list, but from what I know these devices should work.
+Compatibility depends on the manufacturer, I haven't been able to test every single device in this upcoming list, but from what I know these devices should work. The list bellow is carefully edited everyday to ensure it stays up-to-date.
 
 # Supported Haptic-Enabled devices.
 
@@ -65,6 +65,9 @@ Galaxy S Series
 - Galaxy S25
 - Galaxy S25+
 - Galaxy S25 Ultra
+- Galaxy S26
+- Galaxy S26+
+- Galaxy S26 Ultra
 
 Galaxy Z Series
 
