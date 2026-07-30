@@ -2,6 +2,10 @@
 
 Sound-To-Haptics is an Android application that converts MP3 audio into immersive haptic feedback by generating Android-compatible haptic audio files.
 
+# Disclaimer 
+
+Please do not use any type of music/audio that has heavy bass drops or alot of overlapping beats, it could cause major damages to your device's haptic motor. If you do not follow this then any damage caused to your device is completely on you and not on the application nor the creator. You have been warned.
+
 # Features
 
 - Convert MP3 files into Android-compatible haptic tracks using the OGG Haptic support.
@@ -164,14 +168,6 @@ Nothing
 - Phone (3)
 - Phone (3a)
 - Phone (3a Pro)
-  
-
-# Disclaimer
-
-Please, and I mean PLEASE do not use music that has heavy bass drops or alot of overlapping beats, it could cause damage to the haptic motor. Any damage to any device is completely on you.
-
-# YOU HAVE BEEN WARNED.
-
 
 # Credits
 
