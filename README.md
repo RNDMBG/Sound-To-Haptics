@@ -69,6 +69,8 @@ Galaxy S Series
 - Galaxy S26+
 - Galaxy S26 Ultra
 
+  **ANY SAMSUNG FE EDITION WILL NOT WORK**
+
 Galaxy Z Series
 
 - Galaxy Z Fold3
