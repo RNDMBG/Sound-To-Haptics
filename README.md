@@ -59,7 +59,7 @@ Compatibility depends on the manufacturer, I haven't been able to test every sin
 - Pixel 10 Pro XL
 - Pixel 10 Pro Fold
 
-Samsung
+## Samsung
 
 ### Galaxy S Series
 
