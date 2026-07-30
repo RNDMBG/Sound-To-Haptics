@@ -37,7 +37,7 @@ Compatibility depends on the manufacturer, I haven't been able to test every sin
 
 # Supported Haptic-Enabled Devices
 
-Google Pixel
+### Google Pixel
 
 - Pixel 6
 - Pixel 6 Pro
@@ -140,7 +140,7 @@ Samsung
 
 ---
 
-### vivo
+### Vivo
 
 - X90 *(limited)*
 - X90 Pro
