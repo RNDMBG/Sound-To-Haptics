@@ -177,3 +177,8 @@ Without these, this wouldn't be possible.
 
 HapticLabs Kotlin Library
 FFMPeg Library
+
+#Q&A
+**Will this be open-sourced soon?**
+Yes, soon I have to adjust some code so it is more understandable.
+
