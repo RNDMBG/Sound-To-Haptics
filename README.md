@@ -9,7 +9,7 @@ Sound-To-Haptics is an Android application that converts MP3 audio into immersiv
 
 # Disclaimer 
 
-Please do not use any type of music/audio that has heavy bass drops or alot of overlapping beats, it could cause major damages to your device's haptic motor. If you do not follow this then any damage caused to your device is completely on you and not on the application nor the creator. You have been warned.
+Please do not use any type of music/audio that has heavy bass drops or a lot of overlapping beats, it could cause major damages to your device's haptic motor. If you do not follow this then any damage caused to your device is completely on you and not on the application nor anybody who is affiliated to this project. You have been warned.
 
 # Features
 
@@ -33,7 +33,7 @@ Sound-To-Haptics requires an Android device that supports Android's haptic playb
 - Android device with a supported haptic actuator.
 - Android version that supports haptic-enabled OGG playback (preferably Android 11 and up).
 
-Compatibility depends on the manufacturer, I haven't been able to test every single device in this upcoming list, but from what I know these devices should work. The list bellow is carefully edited everyday to ensure it stays up-to-date.
+Compatibility depends on the manufacturer, not all of the devices written down on the list below have been tested, but from what is known, these devices should work. The list bellow is carefully edited everyday to ensure it stays up-to-date.
 
 # Supported Haptic-Enabled Devices
 
@@ -314,7 +314,7 @@ Compatibility depends on the manufacturer, I haven't been able to test every sin
 - AQUOS R8
 - AQUOS R9
 
-> **Note:** Devices marked ***(limited)*** may not have the X-axis linear motors or may have OEM restrictions that reduce advanced haptic playback quality. They should still support Android haptic APIs, but results may vary compared to flagship devices.
+> **Note:** Devices marked as ***(limited)*** may not have the X-axis linear motors or may have OEM restrictions that reduce advanced haptic playback quality. However, they should still support the Android haptic APIs, but results may vary compared to flagship devices.
 
 
 # Credits
@@ -326,6 +326,6 @@ FFMPeg Library
 
 # Q&A
 
-**Will this be open-sourced soon?**
-Yes, soon I have to adjust some code so it is more understandable.
+**Will this project be open-source soon?**
+Yes, it soon will be. There is just some code so far that needs to be adjusted so that it is easier to understand.
 
