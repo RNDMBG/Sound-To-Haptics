@@ -108,7 +108,7 @@ Samsung
 
 ---
 
-OnePlus
+### OnePlus
 
 - OnePlus 9 *(limited)*
 - OnePlus 9 Pro
@@ -124,7 +124,7 @@ OnePlus
 
 ---
 
-OPPO
+### OPPO
 
 - Find X5 *(limited)*
 - Find X5 Pro
@@ -140,7 +140,7 @@ OPPO
 
 ---
 
-vivo
+### vivo
 
 - X90 *(limited)*
 - X90 Pro
@@ -156,7 +156,7 @@ vivo
 
 ---
 
-Xiaomi
+### Xiaomi
 
 - Xiaomi 12 *(limited)*
 - Xiaomi 12 Pro
@@ -192,7 +192,7 @@ Xiaomi
 
 ---
 
-ASUS
+### ASUS
 
 - Zenfone 10
 - ROG Phone 6
@@ -206,7 +206,7 @@ ASUS
 
 ---
 
-Sony
+### Sony
 
 - Xperia 1 III
 - Xperia 1 IV
@@ -220,7 +220,7 @@ Sony
 
 ---
 
-Motorola
+### Motorola
 
 - Edge 30 Ultra
 - Edge 40 *(limited)*
@@ -235,7 +235,7 @@ Motorola
 
 ---
 
-HONOR
+### HONOR
 
 - Magic4 Pro
 - Magic5 Pro
@@ -250,7 +250,7 @@ HONOR
 
 ---
 
-Nothing
+### Nothing
 
 - Phone (1)
 - Phone (2)
@@ -265,7 +265,7 @@ Nothing
 
 ---
 
-realme
+### Realme
 
 - GT 2 Pro
 - GT 5 Pro
@@ -275,7 +275,7 @@ realme
 
 ---
 
-iQOO
+### iQOO
 
 - iQOO 11
 - iQOO 12
@@ -285,7 +285,7 @@ iQOO
 
 ---
 
-nubia
+### Nubia
 
 - Z60 Ultra
 - Z70 Ultra
@@ -295,7 +295,7 @@ nubia
 
 ---
 
-Meizu
+### Meizu
 
 - Meizu 20 Pro
 - Meizu 21
@@ -303,13 +303,13 @@ Meizu
 
 ---
 
-Lenovo
+### Lenovo
 
 - Legion Y90
 
 ---
 
-Sharp
+### Sharp
 
 - AQUOS R8
 - AQUOS R9
