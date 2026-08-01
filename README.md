@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo/logo.png" alt="Sound-To-Haptics Logo" width="160">
+  <img src="logo/logo.png" alt="Sound-To-Haptics Logo" width="180">
 </p>
 
 # Sound-To-Haptics
