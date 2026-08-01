@@ -1,9 +1,6 @@
 <picture>
-  <!-- Dark mode logo -->
-  <source media="(prefers-color-scheme: dark)" srcset="logo/logo-dark.png">
-  <!-- Light mode logo -->
-  <source media="(prefers-color-scheme: light)" srcset="logo/logo-light.png">
-  <!-- Fallback logo -->
+  <source media="(prefers-color-scheme: dark)" srcset="logo/logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="logo/logo.png">
   <img alt="Sound-To-Haptics Logo" src="logo/logo.png" width="180">
 </picture>
 
