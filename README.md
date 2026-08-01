@@ -1,7 +1,11 @@
-
-<p align="center">
-  <img src="logo/logo.png" alt="Sound-To-Haptics Logo" width="180">
-</p>
+<picture>
+  <!-- Dark mode logo -->
+  <source media="(prefers-color-scheme: dark)" srcset="logo/logo-dark.png">
+  <!-- Light mode logo -->
+  <source media="(prefers-color-scheme: light)" srcset="logo/logo-light.png">
+  <!-- Fallback logo -->
+  <img alt="Sound-To-Haptics Logo" src="logo/logo.png" width="180">
+</picture>
 
 # Sound-To-Haptics
 
