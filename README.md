@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="logo/logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="logo/logo.png">
-  <img alt="Sound-To-Haptics Logo" src="logo/logo.png" width="180">
-</picture>
-
+<p align="center">
+  <img src="logo/logo.png" alt="Sound-To-Haptics Logo" width="180">
+</p>
 # Sound-To-Haptics
 
 Sound-To-Haptics is an Android application that converts MP3 audio into immersive haptic feedback by generating Android-compatible haptic audio files.
