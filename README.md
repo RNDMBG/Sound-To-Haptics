@@ -12,6 +12,15 @@ Sound-To-Haptics is an Android application that converts MP3 audio into immersiv
 
 Please do not use any type of music/audio that has heavy bass drops or a lot of overlapping beats, it could cause major damages to your device's haptic motor. If you do not follow this then any damage caused to your device is completely on you and not on the application nor anybody who is affiliated to this project. You have been warned.
 
+# To Do List
+
+-Integrate Spotify correctly, and fix it's syncing issues (will take a long time).
+-Add a Bluetooth sync option, whereas if the app detects a Bluetooth headphones/earbuds, it plays the haptics only on the phone and music on the Bluetooth headphones/earbuds (almost done).
+-Fixing issue where the audio playback can stop at a random time. Known fix is to just close the app and launch it again (almost done).
+-Experimental option where the app will try to force the haptic vibrations on phones with only a simple vibrator motor (will take a long time).
+-A README file included in the open-source files explaining what each file and code does (halfway done).
+
+
 # Features
 
 - Convert MP3 files into Android-compatible haptic tracks using the OGG Haptic support.
