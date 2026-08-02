@@ -330,16 +330,23 @@ Compatibility depends on the manufacturer, not all of the devices written down o
 
 > **Note:** Devices marked as ***(limited)*** may not have the X-axis linear motors or may have OEM restrictions that reduce advanced haptic playback quality. However, they should still support the Android haptic APIs, but results may vary compared to flagship devices.
 
-
-# Credits
-
-Without these, this wouldn't be possible.
-
-HapticLabs Kotlin Library
-FFMPeg Library
-
 # Q&A
 
 **Will this project be open-source soon?**
 Yes, it soon will be. There is just some code so far that needs to be adjusted so that it is easier to understand.
 
+
+# Credits
+
+Without these people or libraries, this wouldn't be possible.
+
+## Libraries
+
+-HapticLabs Kotlin Library
+
+-FFMPeg Library
+
+## People
+
+RandomBlenderGuy (Current Developer).
+kon39892-svg (README revisor on GitHub).
