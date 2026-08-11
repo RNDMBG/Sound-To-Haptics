@@ -345,5 +345,7 @@ Without these people or libraries, this wouldn't be possible.
 ## People
 
 RandomBlenderGuy (Current Developer).
+
 kon39892-svg (README revisor on GitHub).
+
 ConsciousBone (Responsible for testing the app on devices).
