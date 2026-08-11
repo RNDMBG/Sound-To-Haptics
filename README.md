@@ -55,14 +55,14 @@ Compatibility depends on the manufacturer, not all of the devices written down o
 
 - Pixel 6
 - Pixel 6 Pro
-- Pixel 6a
+- Pixel 6a *(tested)*
 - Pixel 7
 - Pixel 7 Pro
 - Pixel 7a
 - Pixel Fold
 - Pixel Tablet
 - Pixel 8
-- Pixel 8 Pro
+- Pixel 8 Pro *(tested)*
 - Pixel 8a
 - Pixel 9
 - Pixel 9 Pro
@@ -99,15 +99,11 @@ Compatibility depends on the manufacturer, not all of the devices written down o
 **ANY SAMSUNG FE EDITION WILL NOT WORK**
 
 ### Galaxy Z Series
-
-- Galaxy Z Fold3
-- Galaxy Z Fold4
-- Galaxy Z Fold5
+- Galaxy Z Fold5 *(tested)*
 - Galaxy Z Fold6
-- Galaxy Z Fold7
-- Galaxy Z Flip3
-- Galaxy Z Flip4
-- Galaxy Z Flip5 *(tested)*
+- Galaxy Z Fold7 *(tested)*
+- Galaxy Z Fold8
+- Galaxy Z Fold8 Ultra *(tested)*
 - Galaxy Z Flip6
 - Galaxy Z Flip7
 
@@ -350,3 +346,4 @@ Without these people or libraries, this wouldn't be possible.
 
 RandomBlenderGuy (Current Developer).
 kon39892-svg (README revisor on GitHub).
+ConsciousBone (Responsible for testing the app on devices).
