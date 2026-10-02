@@ -44,14 +44,14 @@ Sound-To-Haptics combines two libraries:
 
 Sound-To-Haptics requires an Android device that supports Android's haptic playback framework.
 
-# Requirements:
+# Requirements
 
 - Android device with a supported haptic actuator.
 - Android version that supports haptic-enabled OGG playback (preferably Android 11 and up).
 
 Compatibility depends on the manufacturer, not all of the devices written down on the list below have been tested, but from what is known, these devices should work. The list bellow is carefully edited everyday to ensure it stays up-to-date.
 
-# Supported Haptic-Enabled Devices
+# Supported Devices
 
 ### Google Pixel
 
@@ -326,7 +326,7 @@ Compatibility depends on the manufacturer, not all of the devices written down o
 - AQUOS R8
 - AQUOS R9
 
-> **Note:** Devices marked as ***(limited)*** may not have the X-axis linear motors or may have OEM restrictions that reduce advanced haptic playback quality. However, they should still support the Android haptic APIs, but results may vary compared to flagship devices.
+> **Note:** Devices marked as ***(limited)*** may not have OEM restrictions, or may not even support Google's Haptic Playback system.
 
 # Q&A
 
