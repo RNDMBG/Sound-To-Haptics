@@ -332,28 +332,27 @@ Compatibility depends on the manufacturer, not all of the devices written down o
 - AQUOS R8
 - AQUOS R9
 
-> **Note:** Devices marked as ***(limited)*** may not have OEM restrictions, or may not even support Google's Haptic Playback system.
+> **Note:** Devices marked as ***(limited)*** may be subject to OEM restrictions or may not support Google's Haptic Playback system.
 
 # Q&A
 
-**Will this project be open-source soon?**
-Yes, it soon will be. There is just some code so far that needs to be adjusted so that it is easier to understand.
+### Will this project be open-source soon?
 
+Yes! The project will be open-source soon. There is still some code that needs to be cleaned up and adjusted to make the project easier to understand and contribute to.
 
 # Credits
 
-Without these people or libraries, this wouldn't be possible.
+This project wouldn't be possible without the people and libraries that helped make it happen <3.
 
 ## Libraries
 
--HapticLabs Kotlin Library
-
--FFMPeg Library
+* **HapticLabs Kotlin Library** — Haptic playback functionality
+* **Google Haptic Audio / Haptic Playback Library** — Haptic playback and audio to haptic integration
+* **FFmpeg** — Audio processing and conversion
 
 ## People
 
-RandomBlenderGuy (Current Developer).
+* **RandomBlenderGuy** — Current developer
+* **kon39892-svg** — README revisor
+* **ConsciousBone** — Device testing
 
-kon39892-svg (README revisor on GitHub).
-
-ConsciousBone (Responsible for testing the app on devices).
