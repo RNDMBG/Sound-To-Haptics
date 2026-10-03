@@ -7,6 +7,12 @@
 # Sound-To-Haptics
 
 ![GitHub Downloads](https://img.shields.io/github/downloads/RNDMBG/Sound-To-Haptics/total?color=brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/RNDMBG/Sound-To-Haptics?style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/RNDMBG/Sound-To-Haptics?style=flat)
+![GitHub Issues](https://img.shields.io/github/issues/RNDMBG/Sound-To-Haptics)
+![GitHub License](https://img.shields.io/github/license/RNDMBG/Sound-To-Haptics)
+![Android](https://img.shields.io/badge/Platform-Android-green)
+![Min SDK](https://img.shields.io/badge/Android%20SDK-28%2B-blue)
 
 Sound-To-Haptics is an Android application that converts MP3 audio into immersive haptic feedback by generating Android-compatible haptic audio files.
 
